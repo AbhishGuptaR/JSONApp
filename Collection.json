@@ -1,0 +1,71 @@
+{
+    "viewType": 2,
+    "collections": {
+        "key": "CollectionView",
+        "hashMap": "",
+        "action": "redirect",
+        "type": "Array",
+        "value": [
+            {
+                "image": "https://listado-staging.s3.ap-south-1.amazonaws.com/Q979Ev558T911.png",
+                "name": "Argentina",
+                "playstore_key": "",
+                "appstore_key": null,
+                "is_free": true,
+                "is_active": true,
+                "is_purchase": true,
+                "list_count": 8,
+                "updatedAt": "2018-06-29T05:54:00.000Z",
+                "id": 64
+            },
+            {
+                "image": "https://listado-staging.s3.ap-south-1.amazonaws.com/Q979Ev558T911.png",
+                "name": "Florence",
+                "playstore_key": "listado.paytest3",
+                "appstore_key": "listado.florence",
+                "is_free": false,
+                "is_active": true,
+                "is_purchase": true,
+                "list_count": 1,
+                "updatedAt": "2018-09-03T11:14:25.000Z",
+                "id": 1
+            },
+            {
+                "image": "https://listado-staging.s3.ap-south-1.amazonaws.com/Q979Ev558T911.png",
+                "name": "Some Place",
+                "playstore_key": "",
+                "appstore_key": null,
+                "is_free": true,
+                "is_active": true,
+                "is_purchase": false,
+                "list_count": 10,
+                "updatedAt": "2018-06-29T07:56:59.000Z",
+                "id": 3
+            },
+            {
+                "image": "https://listado-staging.s3.ap-south-1.amazonaws.com/Q979Ev558T911.png",
+                "name": "TORINO",
+                "playstore_key": "listado.paytest1",
+                "appstore_key": "listado.marina",
+                "is_free": false,
+                "is_active": true,
+                "is_purchase": true,
+                "list_count": 86,
+                "updatedAt": "2018-09-03T11:14:21.000Z",
+                "id": 65
+            },
+            {
+                "image": "https://listado-staging.s3.ap-south-1.amazonaws.com/2x95fttrOw1623.png",
+                "name": "UMBRIAS",
+                "playstore_key": "listado.paytest2",
+                "appstore_key": "listado.paris",
+                "is_free": false,
+                "is_active": true,
+                "is_purchase": true,
+                "list_count": 9,
+                "updatedAt": "2018-09-12T06:12:25.000Z",
+                "id": 66
+            }
+        ]
+    }
+}
